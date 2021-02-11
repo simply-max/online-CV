@@ -1,0 +1,61 @@
+/* Allgemein */
+*{
+  font-family: arial;
+  text-align: center;
+}
+
+.make_it_blue{
+  color: #0000FF;
+}
+
+/* Maximilian Hofheinz Banner Top */
+.headline_1{
+  width: 100%;
+  height: 10%;
+  background-color: #0000FF;
+  color: white;
+}
+
+.headline_name{
+  padding: 2%;
+  font-size: 300%;
+}
+
+/* Willkommensnachricht mit Profilbild */
+.Welcome{
+  border-bottom: 2px solid grey;
+}
+
+.Profile_picture{
+  height: 15%;
+  width: 15%;
+}
+
+/* Fähigkeiten */
+.Fähigkeiten{
+  border-bottom: 2px solid grey;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+/* Lebenslauf */
+.Lebenslauf{
+  border-bottom: 2px solid grey;
+}
+
+/* Erfahrungen */
+.Erfahrungen{
+  border-bottom: 2px solid grey;
+}
+
+/* Interessen */
+.Interessen{
+  list-style-type: none;
+  display: inline;
+}
+
+.Icon{
+
+}

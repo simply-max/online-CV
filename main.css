@@ -38,6 +38,7 @@
   background-color: #0000FF;
   color: white;
   width: 15%;
+  height: auto;
   border: 5px solid #D0CECE;
 }
 
@@ -52,13 +53,8 @@
 
 
 /* Interessen */
-.Interessen{
-  list-style-type: none;
-  display: inline;
-}
-
-.Fähigkeiten{
-  display: inline;
+.Liste_Interessen{
+margin: auto;
 }
 
 #Liste_Interessen{

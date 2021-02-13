@@ -36,6 +36,10 @@
   border-bottom: 2px solid grey;
 }
 
+.h2{
+    border: 5px solid #0000FF;
+}
+
 .underline{
   text-decoration: underline;
 }
@@ -56,6 +60,6 @@
   display: inline;
 }
 
-.Icon{
-
+.Fähigkeiten{
+  display: inline;
 }

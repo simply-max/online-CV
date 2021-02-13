@@ -37,7 +37,8 @@
   margin-top: 2%;
   background-color: #0000FF;
   color: white;
-  width: 15%;
+  width: auto;
+  max-width: 40%;
   height: auto;
   border: 5px solid #D0CECE;
 }

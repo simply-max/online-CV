@@ -36,6 +36,15 @@
   border-bottom: 2px solid grey;
 }
 
+.Fähigkeiten_Kasten{
+
+  background-color: #0000FF;
+  color: white;
+  height: 10%;
+  width: 20%;
+  border: 5px solid #D0CECE;
+}
+
 .h2{
     border: 5px solid #0000FF;
 }

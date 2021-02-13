@@ -8,6 +8,10 @@
   color: #0000FF;
 }
 
+.Abschnitt{
+  border-bottom: 2px solid grey;
+}
+
 /* Maximilian Hofheinz Banner Top */
 .headline_1{
   width: 100%;
@@ -22,20 +26,12 @@
 }
 
 /* Willkommensnachricht mit Profilbild */
-.Welcome{
-  border-bottom: 2px solid grey;
-}
-
 .Profile_picture{
   height: 15%;
   width: 15%;
 }
 
 /* Fähigkeiten */
-.Fähigkeiten{
-  border-bottom: 2px solid grey;
-}
-
 .Fähigkeiten_Kasten{
 
   background-color: #0000FF;
@@ -54,14 +50,10 @@
 }
 
 /* Lebenslauf */
-.Lebenslauf{
-  border-bottom: 2px solid grey;
-}
+
 
 /* Erfahrungen */
-.Erfahrungen{
-  border-bottom: 2px solid grey;
-}
+
 
 /* Interessen */
 .Interessen{
@@ -71,4 +63,8 @@
 
 .Fähigkeiten{
   display: inline;
+}
+
+#Liste_Interessen{
+  list-style: none;
 }

@@ -32,17 +32,13 @@
 }
 
 /* Fähigkeiten */
-.Fähigkeiten_Kasten{
-
+.Kasten_Abschnitt{
+  margin: auto;
+  margin-top: 2%;
   background-color: #0000FF;
   color: white;
-  height: 10%;
-  width: 20%;
+  width: 15%;
   border: 5px solid #D0CECE;
-}
-
-.h2{
-    border: 5px solid #0000FF;
 }
 
 .underline{

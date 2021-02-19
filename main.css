@@ -8,11 +8,12 @@
   color: #394F9E;
 }
 
-.E-Mail_button{
+.link_button{
   background-color: #394F9E;
   border: none;
   color: white;
   padding: 15px 32px;
+  margin: 1%;
   text-align: center;
   text-decoration: none;
   display: inline-block;

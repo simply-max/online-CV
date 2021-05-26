@@ -19,6 +19,7 @@
   display: inline-block;
   font-size: 16px;
   margin-bottom: 2%;
+  border-radius: 10px 10px 10px 10px;
 }
 
 /* Maximilian Hofheinz Banner Top */
@@ -27,6 +28,7 @@
   height: 10%;
   background-color: #394F9E;
   color: white;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .headline_name{
@@ -43,6 +45,7 @@
   height: 15%;
   width: 15%;
   margin-top: 2%;
+  border-radius: 10px 10px 10px 10px;
 }
 
 /* Fähigkeiten */
